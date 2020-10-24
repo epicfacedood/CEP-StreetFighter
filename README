@@ -2,7 +2,6 @@ Please Download assets 1 and 2, and combine all the files in both folders into o
 
 Make sure that the "CEP Final.py" is run in a similar folder as "assets". 
 
-Do note that the bot you are playing against will not attack you as the AI portion of the code is not yet complete. The game can be recoded into a Player Versus Player game 
-where two players play against each other using the same keyboard. 
+Do note that the bot you are playing against will not attack you as the code is not yet complete (The Bot can only move back and forth). The game can be recoded into a Player Versus Player game where two players play against each other using the same keyboard. 
 
-
+Use KEYS "W,A,S,D" to move and KEYS "J,K,N,M" to attack and KEY "L" to hadouken. 
